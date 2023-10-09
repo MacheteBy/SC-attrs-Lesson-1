@@ -16,7 +16,6 @@ function App() {
     );
 }
 
-
 export default App;
 
 const Title = styled.h1`
